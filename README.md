@@ -6,9 +6,9 @@ AI chatbot agent for AutoStream using LangChain with RAG, intent detection, and 
 1. Clone the repository 
 2. Install required packages
 pip install -r requirements.txt
-3. Open file chatbot.ipynb in jupyter or google colab 
+3. Open file chatbot.ipynb in google colab 
 4. Run all cells 
-5. Execute function chat()
+5. start_chat()
 
 ---
 
